@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipleProcess.iml" filepath="$PROJECT_DIR$/MultipleProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musiclib/musiclib.iml" filepath="$PROJECT_DIR$/musiclib/musiclib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plana/plana.iml" filepath="$PROJECT_DIR$/plana/plana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planb/planb.iml" filepath="$PROJECT_DIR$/planb/planb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planc/planc.iml" filepath="$PROJECT_DIR$/planc/planc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pland/pland.iml" filepath="$PROJECT_DIR$/pland/pland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plane/plane.iml" filepath="$PROJECT_DIR$/plane/plane.iml" />
+    </modules>
+  </component>
+</project>
